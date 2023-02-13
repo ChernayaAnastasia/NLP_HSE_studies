@@ -1,3 +1,3 @@
-# Python Course HSE
-This is a repository for home-works. Thank you for looking it through.
+# NLP with Python (HSE)
+This is a repository for keeping homeworks on NLP course in HSE.
  
